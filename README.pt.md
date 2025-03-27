@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><img src="./assets/start_img_2.png" alt="TypeScript" width="300"></td>
-    <td><h1>🎵 Ｆｌｏｒａ Ｂｏｔ 🎶</h1></td>
+    <td><h1>🎵 🎸𝐆𝖎𝖙𝖆𝖗𝖎𝖘𝖙 𝕸𝖚𝖘𝖎𝖈🎸 🎶</h1></td>
   </tr>
 </table>
 
